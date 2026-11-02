@@ -3,10 +3,6 @@
 ## [3.22.0](https://github.com/langwatch/langwatch/compare/langwatch@v3.21.0...langwatch@v3.22.0) (2026-11-02)
 
 
-### ⚠ BREAKING CHANGES
-
-* **sdk:** client.dashboards and langwatch.dashboards now address the new Dashboards API, not the old Reports; use client.analyticsReports / langwatch.analytics_reports for those. MCP Reports tools are renamed platform_*_analytics_report(s).
-
 ### Features
 
 * **aigateway:** serve OpenAI Decisions API on /v1/decisions ([#9200](https://github.com/langwatch/langwatch/issues/9200)) ([aa27b1f](https://github.com/langwatch/langwatch/commit/aa27b1ffaa92860abe40548cbbb5009369472bdd))

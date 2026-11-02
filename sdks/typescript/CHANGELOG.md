@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/langwatch/langwatch/compare/typescript-sdk@v2.1.0...typescript-sdk@v2.1.1) (2026-11-02)
+
+
+### Bug Fixes
+
+* **model-provider:** drop the Doubleword models shut down on 30 Oct ([#9214](https://github.com/langwatch/langwatch/issues/9214)) ([abfdbbf](https://github.com/langwatch/langwatch/commit/abfdbbfac18f4294d31c06c3460df60741c1c79a))
+
 ## [2.1.0](https://github.com/langwatch/langwatch/compare/typescript-sdk@v2.0.0...typescript-sdk@v2.1.0) (2026-10-30)
 
 
